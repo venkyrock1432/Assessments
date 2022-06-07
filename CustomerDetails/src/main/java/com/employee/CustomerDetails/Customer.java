@@ -6,6 +6,8 @@ public class Customer {
 	private long CustomerContact;
 	private Address address;
 	
+	//created a setter and getter for customer class
+	
 	public int getCustomerId() {
 		return CustomerId;
 	}
