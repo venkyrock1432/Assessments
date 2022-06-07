@@ -7,6 +7,8 @@ public class Address {
 	private int zip;
 	private String country;
 	
+	//created a constructor for address class
+	
 	public Address() {
 		
 	}
